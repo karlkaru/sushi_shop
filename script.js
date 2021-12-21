@@ -81,7 +81,7 @@ function loadJSON(){
                         </div>
                         </div>
                     </div>
-                        <button type="button" class="product-price add-to-cart-btn btn btn-primary text-center">${product.price}</button>
+                        <button type="button" class="product-price add-to-cart-btn btn btn-primary text-center">${product.price}€</button>
 
                         </div>  
                     </div>    
